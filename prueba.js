@@ -1,4 +1,3 @@
+let frase = "Hola Mundo!";
 
-let frase = "Hola Mundo!"
-
-console.log( nombre )
+console.log(nombre);
